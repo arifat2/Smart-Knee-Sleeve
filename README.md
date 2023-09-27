@@ -1,7 +1,7 @@
 # Fit-Trainer (Smart Knee Sleeve)
 
 **Author:** Asif Rifat  
-**Institution:** College of Engineering University of Illinois of Chicago  
+**Institution:** University of Illinois of Chicago (College of Engineering)
 **Location:** Chicago, United States of America  
 **Email:** [arifat2@uic.edu](mailto:arifat2@uic.edu)
 
@@ -34,11 +34,14 @@ Running, squatting, and deadlifting are examples of popular activities that may 
 ### B. Functionality and Design
 The device incorporates two distinct sleeves, each housing various sensors and equipment. This design enables seamless monitoring of an individual's heart rate and other vital fitness data. The first knee sleeve features an integrated heart rate sensor, which is achieved by cutting a section of the sleeve and embedding the sensor within. The second knee sleeve is designed to accommodate a Force sensor and additional equipment, intended to be worn on top of the first sleeve. In addition to the sensors housed within the knee sleeves, the device also includes two force-sensitive resistors which are to be placed on the user's shoe sole. These resistors collect data on foot pressure during exercise, providing valuable information on the user's foot placement. This layered approach allows for comprehensive data collection while maintaining wearer comfort. The system is powered by two FireBeetle Board-328P microcontrollers, which communicate wirelessly via Bluetooth to transfer collected data. One of the FireBeetle boards is situated in the first knee sleeve, while the other is connected to a computer for data analysis and visualization. The FireBeetle board housed in the knee sleeve is connected to an array of sensors, including two force-sensitive resistors, one flex sensor, an accelerometer, and a heart rate sensor. This board is powered by a battery, and the force-sensitive resistors and flex sensor are connected to the board through a series of resistors, ensuring accurate and reliable data transmission. By utilizing this advanced knee sleeve system, we can effectively monitor various fitness metrics, providing individuals with valuable insights into their performance and overall health.
 
-![image](https://github.com/arifat2/Smart-Knee-Sleeve/assets/111903875/21093438-afb1-45ef-b1bc-f9fd68a4e1a5) ![image](https://github.com/arifat2/Smart-Knee-![image](https://github.com/arifat2/Smart-Knee-Sleeve/assets/111903875/c931f0b4-9015-49e4-a304-66ac3df0c881)
-Sleeve/assets/111903875/5a54a853-3918-4b4b-87c3-ec5aa57c591b)
+![image](https://github.com/arifat2/Smart-Knee-Sleeve/assets/111903875/db40e3d2-4018-4d03-8c69-01b452e13bdc)
+![image](https://github.com/arifat2/Smart-Knee-Sleeve/assets/111903875/830f64d6-95b1-4baa-ba2d-8a9ec2696d61)
+![image](https://github.com/arifat2/Smart-Knee-Sleeve/assets/111903875/fd9ae7ad-b52e-4bf2-9d62-54ffd4f2ec80)
 
 ## III. Software
-... [Details about the software, A. Real-time feedback, B. Start Screen etc.]
+Fit Trainer is an innovative fitness solution that aims to revolutionize users' workout experiences by providing real-time feedback, comprehensive insights, and customizable options for three core exercises: squats, deadlifts, and cardio. The system leverages cutting-edge technology, such as Force Sensitive Resistors (FSRs) and accelerometers, to empower users in making data-driven decisions, refining their techniques, and ultimately achieving their fitness goals.
+
+# Real-time feedback 
 
 ## IV. Further Work and Setbacks
 ... [Details about further work and setbacks]
