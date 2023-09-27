@@ -66,16 +66,29 @@ The Insight tab consolidates various performance metrics, such as average heart 
 
 
 ## IV. Further Work and Setbacks
-... [Details about further work and setbacks]
 
-## V. Conclusion
-... [Conclusion details]
+### A. Social and Community Features
+To foster a sense of community and encourage users to stay motivated, Fit Trainer could introduce social features, such as the ability to connect with friends, join workout groups, and participate in challenges. These features could promote healthy competition and support users in maintaining their exercise routines.
+
+### B. Expanding Futures
+Fit Trainer's adaptability ensures that it caters to users with diverse fitness levels and goals. The app could be expanded to include customizable features, such as individualized workout plans, exercise modifications, and personalized recommendations based on users' preferences and performance data. Moreover, future updates to Fit Trainer could integrate additional exercises and workout modalities, such as yoga, high-intensity interval training (HIIT), and strength training, further broadening the app's appeal to a wider audience.
+
+### C. Challenges Encountered
+During the development of the wearable device, several challenges were encountered in both the construction and sensor integration processes. One significant hurdle was the need to create small pockets within the knee sleeves to house sensors and equipment while maintaining user comfort and seamless integration. As a novice at sewing, this task proved to be rather difficult. Additionally, configuring the accelerometer posed substantial challenges due to its complex output of weight values and other data. Furthermore, the force-sensitive resistors and flex sensors were connected to malfunctioning resistors, necessitating their replacement. This process was time-consuming, as it required thorough testing to identify the root cause of the issue, whether it was the resistors or the sensors themselves. Ultimately, the most formidable obstacle faced during this project was ensuring the proper functioning of the accelerometer.
+
+### V. Conclusion
+Fit Trainer presents a comprehensive fitness solution that combines advanced technology, real-time feedback, and an intuitive interface to optimize users' exercise routines. By leveraging an innovative knee sleeve system and incorporating force-sensitive resistors, accelerometers, and other sensors, Fit Trainer provides valuable insights into performance metrics, form, and intensity. Moreover, Fit Trainer's adaptability ensures its relevance for users with diverse fitness levels and objectives. Customizable features and potential future improvements, such as personalized workout plans, exercise modifications, and the inclusion of additional workout modalities, will broaden the app's appeal to a wider audience. Despite the challenges faced during the development of the wearable device, the successful integration of the accelerometer and other sensors has demonstrated the potential of Fit Trainer as an effective and comprehensive fitness solution.	
 
 ## VI. Acknowledgment
-The authors would like to acknowledge and thank...
+The authors would like to acknowledge and thank Professor Hananeh Esmailbeigi as well as Teaching Assistants Kyle Coda, Asvin Ragunathan, and Marco Colocrese for guidance and mentorship. The authors would also like to express their gratitude to the University of Illinois Chicago for the opportunity to take this class allowing us to expand our knowledge and express our creativity.
 
 ## VII. References
-1. [SparkFun Electronics Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-pulse-oximeter-and-heart-ratemonitor-hookup-guide?_ga=2.220576152.1212953126.1599321693-1639076062.1599321693)
-2. [Using an FSR by Adafruit Learning System](https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr)
-3. [ADXL345 Hookup Guide by SparkFun Electronics](https://learn.sparkfun.com/tutorials/adxl345-hookup-guide?_ga=2.181873639.1926396791.1682396306-169495036.1681830306)
-... [More References]
+[1] SparkFun Electronics, "SparkFun Pulse Oximeter and Heart Rate Monitor Hookup Guide," SparkFun Electronics, 2020. Available: https://learn.sparkfun.com/tutorials/sparkfun-pulse-oximeter-and-heart-ratemonitor-hookup-guide?_ga=2.220576152.1212953126.1599321693-1639076062.1599321693.
+[2] Adafruit Industries, "Using an FSR," Adafruit Learning System. Available: https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr.
+[3] SparkFun Electronics, "ADXL345 Hookup Guide," SparkFun Electronics, 2021. Available: https://learn.sparkfun.com/tutorials/adxl345-hookup-guide?_ga=2.181873639.1926396791.1682396306-169495036.1681830306.
+[4] M. Schoeffler, "Tutorial: How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno," Michael Schoeffler, October 5, 2017. Available: https://mschoeffler.com/2017/10/05/tutorial-how-to-use-the-gy-521-module-mpu-6050-breakout-board-with-the-arduino-uno/. 
+[5] Instructables, "How to use a Flex Sensor - Arduino Tutorial," Instructables, 2019. Available: https://www.instructables.com/How-to-use-a-Flex-Sensor-Arduino-Tutorial/.
+[6] Freepik, "Heart Rate Images," Freepik. Available: https://www.freepik.com/search?format=search&query=heart%20rate.
+[7] SchemeColor, "Workout Colors Palette," SchemeColor. Available: https://www.schemecolor.com/workout-colors-palette.php.
+[8] OpenAI, "ChatGPT: Conversational AI based on GPT-4 Architecture," OpenAI. Available: https://www.openai.com/research/chatgpt/ 
+
