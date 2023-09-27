@@ -83,7 +83,7 @@ Fit Trainer presents a comprehensive fitness solution that combines advanced tec
 The authors would like to acknowledge and thank Professor Hananeh Esmailbeigi as well as Teaching Assistants Kyle Coda, Asvin Ragunathan, and Marco Colocrese for guidance and mentorship. The authors would also like to express their gratitude to the University of Illinois Chicago for the opportunity to take this class allowing us to expand our knowledge and express our creativity.
 
 ## VII. References
-[1] SparkFun Electronics, "SparkFun Pulse Oximeter and Heart Rate Monitor Hookup Guide," SparkFun Electronics, 2020. Available: https://learn.sparkfun.com/tutorials/sparkfun-pulse-oximeter-and-heart-ratemonitor-hookup-guide?_ga=2.220576152.1212953126.1599321693-1639076062.1599321693.  
+#### [1] SparkFun Electronics, "SparkFun Pulse Oximeter and Heart Rate Monitor Hookup Guide," SparkFun Electronics, 2020. Available: https://learn.sparkfun.com/tutorials/sparkfun-pulse-oximeter-and-heart-ratemonitor-hookup-guide?_ga=2.220576152.1212953126.1599321693-1639076062.1599321693.  
 [2] Adafruit Industries, "Using an FSR," Adafruit Learning System. Available: https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr.  
 [3] SparkFun Electronics, "ADXL345 Hookup Guide," SparkFun Electronics, 2021. Available: https://learn.sparkfun.com/tutorials/adxl345-hookup-guide _ga=2.181873639.1926396791.1682396306-169495036.1681830306.  
 [4] M. Schoeffler, "Tutorial: How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno," Michael Schoeffler, October 5, 2017. Available: https://mschoeffler.com/2017/10/05/tutorial-how-to-use-the-gy-521-module-mpu-6050-breakout-board-with-the-arduino-uno/.  
