@@ -1,7 +1,7 @@
 # Fit-Trainer (Smart Knee Sleeve)
 
 **Author:** Asif Rifat  
-**Institution:** University of Illinois of Chicago (College of Engineering)
+**Institution:** University of Illinois of Chicago
 **Location:** Chicago, United States of America  
 **Email:** [arifat2@uic.edu](mailto:arifat2@uic.edu)
 
@@ -41,7 +41,7 @@ The device incorporates two distinct sleeves, each housing various sensors and e
 ## III. Software
 Fit Trainer is an innovative fitness solution that aims to revolutionize users' workout experiences by providing real-time feedback, comprehensive insights, and customizable options for three core exercises: squats, deadlifts, and cardio. The system leverages cutting-edge technology, such as Force Sensitive Resistors (FSRs) and accelerometers, to empower users in making data-driven decisions, refining their techniques, and ultimately achieving their fitness goals.
 
-# Real-time feedback 
+### Real-time feedback 
 
 ## IV. Further Work and Setbacks
 ... [Details about further work and setbacks]
