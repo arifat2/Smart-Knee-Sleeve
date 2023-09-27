@@ -84,11 +84,11 @@ The authors would like to acknowledge and thank Professor Hananeh Esmailbeigi as
 
 ## VII. References
 #### [1] SparkFun Electronics, "SparkFun Pulse Oximeter and Heart Rate Monitor Hookup Guide," SparkFun Electronics, 2020. Available: https://learn.sparkfun.com/tutorials/sparkfun-pulse-oximeter-and-heart-ratemonitor-hookup-guide?_ga=2.220576152.1212953126.1599321693-1639076062.1599321693.  
-[2] Adafruit Industries, "Using an FSR," Adafruit Learning System. Available: https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr.  
-[3] SparkFun Electronics, "ADXL345 Hookup Guide," SparkFun Electronics, 2021. Available: https://learn.sparkfun.com/tutorials/adxl345-hookup-guide _ga=2.181873639.1926396791.1682396306-169495036.1681830306.  
-[4] M. Schoeffler, "Tutorial: How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno," Michael Schoeffler, October 5, 2017. Available: https://mschoeffler.com/2017/10/05/tutorial-how-to-use-the-gy-521-module-mpu-6050-breakout-board-with-the-arduino-uno/.  
-[5] Instructables, "How to use a Flex Sensor - Arduino Tutorial," Instructables, 2019. Available: https://www.instructables.com/How-to-use-a-Flex-Sensor-Arduino-Tutorial/.  
-[6] Freepik, "Heart Rate Images," Freepik. Available: https://www.freepik.com/search?format=search&query=heart%20rate.  
-[7] SchemeColor, "Workout Colors Palette," SchemeColor. Available: https://www.schemecolor.com/workout-colors-palette.php.  
-[8] OpenAI, "ChatGPT: Conversational AI based on GPT-4 Architecture," OpenAI. Available: https://www.openai.com/research/chatgpt/  
+#### [2] Adafruit Industries, "Using an FSR," Adafruit Learning System. Available: https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr.  
+#### [3] SparkFun Electronics, "ADXL345 Hookup Guide," SparkFun Electronics, 2021. Available: https://learn.sparkfun.com/tutorials/adxl345-hookup-guide _ga=2.181873639.1926396791.1682396306-169495036.1681830306.  
+#### [4] M. Schoeffler, "Tutorial: How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno," Michael Schoeffler, October 5, 2017. Available: https://mschoeffler.com/2017/10/05/tutorial-how-to-use-the-gy-521-module-mpu-6050-breakout-board-with-the-arduino-uno/.  
+#### [5] Instructables, "How to use a Flex Sensor - Arduino Tutorial," Instructables, 2019. Available: https://www.instructables.com/How-to-use-a-Flex-Sensor-Arduino-Tutorial/.  
+#### [6] Freepik, "Heart Rate Images," Freepik. Available: https://www.freepik.com/search?format=search&query=heart%20rate.  
+#### [7] SchemeColor, "Workout Colors Palette," SchemeColor. Available: https://www.schemecolor.com/workout-colors-palette.php.  
+#### [8] OpenAI, "ChatGPT: Conversational AI based on GPT-4 Architecture," OpenAI. Available: https://www.openai.com/research/chatgpt/  
 
