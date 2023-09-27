@@ -1,7 +1,7 @@
 # Fit-Trainer (Smart Knee Sleeve)
 
 **Author:** Asif Rifat  
-**Institution:** University of Illinois of Chicago
+**Institution:** University of Illinois at Chicago (UIC)  
 **Location:** Chicago, United States of America  
 **Email:** [arifat2@uic.edu](mailto:arifat2@uic.edu)
 
